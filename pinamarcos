@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:0 group-title-"filmes",
+#PLAYLISTV: pltv-logo="XXX LINK LOGO XXX" pltv-name="XXX NOME DA LISTA XXX" pltv-description="XXX DESCRIÇÃO DA LISTA XXX" pltv-cover="XXX CAPA DA LISTA XXX" pltv-author="XXX AUTOR DA LISTA XXX" pltv-site="XXX SITE CASO HOUVER XXX" pltv-email="XXX E-MAIL XXX"
 
-#EXTINF:0  group-title="Robin Hood – A Origem Dublado 2018" 
-https://content-na.drive.amazonaws.com/v2/download/presigned/d-nlADDNi6VVd9FmU3VX2VFnVyG6WLGvayRPN0GDqFUeJxFPc
+
+################## CANAIS ########################
+
+#EXTINF:-1 tvg-logo="http://tudotv.tv/fotos/efcea727d37ed2a49bff35a79fb91a25.png" group-title=" group-title="FILMES" pltv-subgroup="TELECINE", Telecine Premium
+
+http://165.227.161.143/loadbalance/telecinepremium/chunks.m3u8?
